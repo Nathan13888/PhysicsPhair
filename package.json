@@ -1,21 +1,13 @@
 {
   "private": true,
   "workspaces": [
-    "themes/amaranth",
-    "themes/advanced",
-    "examples/amaranth-demo",
-    "examples/advanced-demo"
+    "themes/advanced"
   ],
-  "name": "gatsby-starter-advanced",
-  "description": "GatsbyJS starter that includes examples for advanced use cases.",
-  "version": "4.0.0",
-  "author": "Ruben Harutyunyan <vagr9k@gmail.com>",
-  "keywords": [
-    "gatsby",
-    "gatsby-starter",
-    "vagr9k"
-  ],
-  "license": "MIT",
+  "name": "physics-phair",
+  "description": "SCH4U PPPP project. Based on Gatsby Starter Advanced theme",
+  "version": "0.0.0",
+  "author": "Nathan",
+  "license": "GPL",
   "main": "n/a",
   "scripts": {
     "develop": "gatsby develop",
